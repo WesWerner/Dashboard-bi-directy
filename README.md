@@ -28,8 +28,11 @@ dashboard-bi-faturamento/
 ├── docs/
 
 |   ├── Desafio Vendas x Metas.pdf
+
 │   ├── Inicio.png
+
 |   ├── Comparativo.png
+
 |   └── modelo dados.png
 
 └── README.md
